@@ -3,8 +3,8 @@ import instaloader
 
 L = instaloader.Instaloader()
 # Login (type 'your_username' and 'your_password' with your credentials)
-username = 'dikshaw44'
-password = 'dikshaw44@'
+username = 'your_username'
+password = 'your_password'
 L.context.login(username, password)
 
 
